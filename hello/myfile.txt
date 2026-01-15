@@ -1,0 +1,4 @@
+Hello there from Elixir!
+I'm excited to learn Elixir!
+Elixir is so much fun!
+I modified this with Neovim! I'm loving it!
